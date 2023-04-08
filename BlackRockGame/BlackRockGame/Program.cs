@@ -1,3 +1,3 @@
 ﻿
-using var game = new BlackRockGame.Game1();
+using var game = new BlackRockGame.BlackRockGame();
 game.Run();
